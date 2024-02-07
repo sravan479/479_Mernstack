@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/479_Mernstack/static/css/main.f855e6bc.css",
+    "main.js": "/479_Mernstack/static/js/main.e25d7bdd.js",
+    "static/js/592.46c252b5.chunk.js": "/479_Mernstack/static/js/592.46c252b5.chunk.js",
+    "static/media/image1.jpg": "/479_Mernstack/static/media/image1.36fa0554753d12bb7eb9.jpg",
+    "static/media/logo.svg": "/479_Mernstack/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/479_Mernstack/index.html",
+    "main.f855e6bc.css.map": "/479_Mernstack/static/css/main.f855e6bc.css.map",
+    "main.e25d7bdd.js.map": "/479_Mernstack/static/js/main.e25d7bdd.js.map",
+    "592.46c252b5.chunk.js.map": "/479_Mernstack/static/js/592.46c252b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e25d7bdd.js"
+  ]
+}
